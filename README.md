@@ -127,7 +127,7 @@ Reports include:
 
 ---
 
-## 📷 Demo
+## 📷 Streamlit Interface
 
 ![Streamlit Interface](Images/UI.png)
 ![](Images/UI2.png)
