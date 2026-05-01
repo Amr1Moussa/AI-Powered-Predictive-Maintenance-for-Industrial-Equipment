@@ -129,7 +129,8 @@ Reports include:
 
 ## 📷 Demo
 
-*(Add screenshots from your `/Images` folder here)*
+![Streamlit Interface](Images/UI.png)
+![](Images/UI2.png)
 
 ---
 
