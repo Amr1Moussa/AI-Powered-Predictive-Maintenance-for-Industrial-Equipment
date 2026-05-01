@@ -18,7 +18,7 @@ load_dotenv()
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-FD001_DIR = os.path.join(BASE_DIR, "Dataset", "FD001")
+FD001_DIR = os.path.join(BASE_DIR, "Assets", "FD001")
 
 
 def sequence_to_features(X):

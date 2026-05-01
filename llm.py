@@ -78,5 +78,5 @@ The machine is classified as **{risk}**.
 {action}
 """
 
-
+#test
 print(generate_llm_report(150.5, 0.35, "High", "Schedule maintenance within the next 50 cycles. Monitor closely."))
