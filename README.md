@@ -1,6 +1,4 @@
 
----
-
 # 🚀 AI-Powered Predictive Maintenance for Industrial Equipment
 
 An end-to-end AI system that predicts equipment failure using real-world time-series data and provides intelligent maintenance recommendations.
